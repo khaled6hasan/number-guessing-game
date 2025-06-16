@@ -96,7 +96,7 @@ python game.py
 
 📝 Author
 
-Made with ❤️ by Khaled Hasan Nahid
+Made with ❤️ by [ Khaled Hasan Nahid ]
 
 ---
 
