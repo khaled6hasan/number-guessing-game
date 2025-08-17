@@ -1,4 +1,4 @@
-##🎯 Number Guessing Game (Tkinter GUI)
+## 🎯 Number Guessing Game (Tkinter GUI)
 
 A fun and interactive number guessing game built with **Python** and **Tkinter GUI**.  
 The player has to guess a number between 1 and 100 within a limited time. The game features dark mode, sound effects, leaderboard, theme customization, hints, and more!
