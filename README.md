@@ -1,4 +1,4 @@
-🎯 Number Guessing Game (Tkinter GUI)
+#🎯 Number Guessing Game (Tkinter GUI)
 
 A fun and interactive number guessing game built with **Python** and **Tkinter GUI**.  
 The player has to guess a number between 1 and 100 within a limited time. The game features dark mode, sound effects, leaderboard, theme customization, hints, and more!
@@ -6,7 +6,7 @@ The player has to guess a number between 1 and 100 within a limited time. The ga
 ---
 
  
-🚀 Features
+#🚀 Features
 
 - 🎨 Dark Mode Toggle
 - 🔊 Sound Effects for Success and Failure
@@ -22,14 +22,14 @@ The player has to guess a number between 1 and 100 within a limited time. The ga
 ---
 
 
-🖼️ Screenshots
+#🖼️ Screenshots
 
 ![Game UI]   ![number_guessing](https://github.com/user-attachments/assets/b69183ec-5d25-4e08-a9b3-0da72e6ba9a0)    ![number_geussing2](https://github.com/user-attachments/assets/de2cd11c-6afc-4e3d-9741-a5f333268dd2) 
 
 ---
 
 
-🛠️ Requirements
+#🛠️ Requirements
 
 - Python 3.x  
 - Tkinter (comes built-in with Python)  
@@ -43,7 +43,7 @@ pip install playsound
 ---
 
 
-▶️ How to Run
+#▶️ How to Run
 
 ```bash
 python game.py
@@ -52,7 +52,7 @@ python game.py
 ---
 
 
-🗂️ Save & Load Game
+#🗂️ Save & Load Game
 
 - Click Save to save current state.
 - Click Load to resume from saved state
@@ -60,28 +60,28 @@ python game.py
 ---
 
 
-📊 Leaderboard
+#📊 Leaderboard
 
 - Your score will be saved to a local `leaderboard.csv` file.
 
 ---
 
 
-💡 Hint Feature
+#💡 Hint Feature
 
 - Click the Hint button to get a clue whether the correct number is higher or lower than your guess.
 
 ---
 
 
-🎨 Theme Customizer
+#🎨 Theme Customizer
 
 - Click Theme to randomly change the color theme of the interface.
 
 ---
   
 
-🕹️ Controls
+#🕹️ Controls
 
 - Start Game – Starts a new game session
 - Login – Set your username before starting
@@ -94,7 +94,7 @@ python game.py
 ---
 
 
-📝 Author
+#📝 Author
 
 Made with ❤️ by [ Khaled Hasan Nahid ]
 
