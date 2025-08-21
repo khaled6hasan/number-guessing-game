@@ -24,7 +24,7 @@ The player has to guess a number between 1 and 100 within a limited time. The ga
 
 ## 🖼️ Screenshots
 
-![Game UI]   ![number_guessing](https://github.com/user-attachments/assets/b69183ec-5d25-4e08-a9b3-0da72e6ba9a0)    ![number_geussing2](https://github.com/user-attachments/assets/de2cd11c-6afc-4e3d-9741-a5f333268dd2) 
+   ![number_guessing](https://github.com/user-attachments/assets/b69183ec-5d25-4e08-a9b3-0da72e6ba9a0)    ![number_geussing2](https://github.com/user-attachments/assets/de2cd11c-6afc-4e3d-9741-a5f333268dd2) 
 
 ---
 
